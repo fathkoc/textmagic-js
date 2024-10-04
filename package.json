@@ -1,0 +1,29 @@
+
+{
+  "name": "textmagic-js",
+  "version": "1.0.0",
+  "description": "A lightweight JavaScript library for basic text analysis operations like summarization, sentiment analysis, keyword extraction, and classification.",
+  "main": "src/textAnalyzer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fathkoc/textmagic-js"
+  },
+  "keywords": [
+    "text",
+    "analysis",
+    "summarization",
+    "sentiment",
+    "classification",
+    "NLP",
+    "keywords"
+  ],
+  "author": "Fatih Koç",
+  "license": "MIT",
+  "dependencies": {
+    "natural": "^5.0.3",
+    "sentiment": "^5.0.1"
+  }
+}
